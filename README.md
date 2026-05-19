@@ -1,13 +1,18 @@
 <div align="center">
+  
 # Abul Hasnat Abdullah
+
 **BSc Mechanical Engineering · BUET** &nbsp;·&nbsp; Robotics & Automation Engineer
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/abulhasnat-abdullah)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)
 </div>
 
 ---
+
 ME student at BUET focused on robotics & autonomous systems. **Senior Coordinator, Software & Autonomy** and **Technical Lead (ERC Remote)** at the BUET Interplanetary Mars Rover Team. Currently running a 30-day robotics simulation sprint. 
+
 ---
 
 ## Stack
