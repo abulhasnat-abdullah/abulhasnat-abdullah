@@ -44,12 +44,11 @@ ME student at BUET focused on robotics & autonomous systems. **Senior Coordinato
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=005386)
 
----
 
 ## Projects
 
 <details>
-<summary><code>01</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/interplanetar_mars_rover"><b>interplanetar_mars_rover</b></a> &nbsp; <img src="https://img.shields.io/badge/live-163800?style=flat-square"/> &nbsp; <sub>· ERC Remote</sub></summary>
+<summary><code>01</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/interplanetar_mars_rover"><b>interplanetar_mars_rover</b></a> &nbsp; <img src="https://img.shields.io/badge/live-163800?style=flat-square"/> &nbsp;</summary>
 <br>
 Full autonomy stack — SLAM, Nav2 waypoint nav, ROS2 architecture, Gazebo digital twin for competition-grade Mars rover.
 
@@ -80,7 +79,6 @@ Speech-to-command interface — natural language parsed and mapped to motor comm
 `Python` `ROS2` `NLP`
 </details>
 
----
 
 ## Research Interests
 
@@ -115,20 +113,5 @@ Traversability analysis & perception pipelines for planetary surfaces — regoli
 
 `traversability` `terrain classification` `3D localization`
 </details>
-
----
-
-## Roadmap
-
-- [x] Robot arm URDF modeling & visualization
-- [x] ROS2 autonomy stack — Mars Rover (ERC Remote)
-- [x] Gazebo simulation with Nav2 + SLAM
-- [x] Voice-controlled robot interface
-- [ ] Warehouse AGV — full Nav2 simulation
-- [ ] Kinodynamic RRT* benchmarking paper
-- [ ] 3D terrain-aware localization on physical rover
-- [ ] Multi-robot coordination system
-
----
 
 *"The best engineers don't wait for the right opportunity. They simulate it first."*
