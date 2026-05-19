@@ -1,6 +1,6 @@
 <div align="center">
   
-# Abul Hasnat Abdullah
+## Abul Hasnat Abdullah
 
 **BSc Mechanical Engineering · BUET** &nbsp;·&nbsp; Robotics & Automation Engineer
 
