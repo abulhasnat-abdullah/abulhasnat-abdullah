@@ -151,22 +151,6 @@ PID   NAME                              STATUS     INTENSITY
 
 ---
 
-## `$ neofetch`
-
-```
-         🤖                    abul@buet-robotics
-        /||\                   ──────────────────
-       / || \                  Degree  : BSc Mechanical Engineering
-      /  ||  \                 Uni     : BUET, Dhaka
-     /__________\              Role    : Sr. Coordinator, Software & Autonomy
-    |  ROS2 NAV2 |                       Tech Lead, ERC Remote
-    |____________|             Stack   : C++ · Python · ROS2 · Nav2 · SLAM
-     |          |              OS      : Ubuntu 22.04 (Jammy)
-     |__________|              Shell   : bash + rclpy nodes
-```
-
----
-
 ## `$ cat /roadmap.md`
 
 - [x] Robot arm URDF modeling & visualization
