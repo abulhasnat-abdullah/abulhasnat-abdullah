@@ -127,61 +127,69 @@ PID   NAME                              STATUS     INTENSITY
 
 ## `$ cat /research_interests.md`
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    RESEARCH INTERESTS                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ► Kinodynamic Motion Planning                              │
-│    RRT* variants with velocity & torque constraints         │
-│    Real-time replanning under dynamic obstacles             │
-│                                                             │
-│  ► Autonomous Mobile Robotics                               │
-│    SLAM in GPS-denied environments                          │
-│    Multi-sensor fusion (LiDAR + IMU + Camera)               │
-│                                                             │
-│  ► Industrial Automation & Human-Robot Collaboration        │
-│    AGV systems for unstructured environments                │
-│    Safe task planning alongside human workers               │
-│                                                             │
-│  ► Mars Analog Terrain Navigation                           │
-│    Traversability analysis for rover locomotion             │
-│    Perception pipelines for extraterrestrial surfaces       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<details>
+<summary><b>🧭 Kinodynamic Motion Planning</b> &nbsp;—&nbsp; <i>click to expand</i></summary>
+<br>
+
+> Sampling-based planners (RRT*, RRT-Connect) extended with velocity bounds, torque limits, and inertial dynamics. Focus on real-time replanning in dynamic environments where classic geometric planners fail.
+
+- RRT* variants under physical (kinodynamic) constraints
+- Real-time replanning under dynamic obstacles
+- Benchmarking kinodynamic vs geometric planners on rover hardware
+
+</details>
+
+<details>
+<summary><b>🗺️ Autonomous Mobile Robotics</b> &nbsp;—&nbsp; <i>click to expand</i></summary>
+<br>
+
+> Robust localization and mapping for GPS-denied environments — from warehouse floors to Mars analog terrain. Integrating heterogeneous sensor streams into coherent world models.
+
+- SLAM in GPS-denied, unstructured environments
+- Multi-sensor fusion: LiDAR + IMU + Camera
+- Long-horizon navigation with semantic map representations
+
+</details>
+
+<details>
+<summary><b>🏭 Industrial Automation & Human-Robot Collaboration</b> &nbsp;—&nbsp; <i>click to expand</i></summary>
+<br>
+
+> AGV systems that operate safely and efficiently in environments shared with human workers. Task planning that is aware of human intent and proximity.
+
+- Kinodynamically-constrained AGV routing in warehouse settings
+- Safe task planning alongside dynamic human presence
+- Collision prediction and proactive replanning
+
+</details>
+
+<details>
+<summary><b>🔴 Mars Analog Terrain Navigation</b> &nbsp;—&nbsp; <i>click to expand</i></summary>
+<br>
+
+> Traversability analysis and perception pipelines tailored for planetary surfaces — loose regolith, sharp rocks, and steep slopes that challenge classical navigation assumptions.
+
+- Terrain classification and traversability scoring
+- Perception pipelines for extraterrestrial surface types
+- 3D terrain-aware localization for rover locomotion
+
+</details>
 
 ---
 
 ## `$ cat /philosophy.txt`
 
-```
-"Mechanical Engineering taught me how systems fail.
- Robotics is teaching me how to make them not.
-
- A rover that navigates Mars terrain autonomously,
- a warehouse AGV that never blocks an aisle —
- that's not magic. That's physics + planning + code,
- executed precisely.
-
- That's what I'm building toward."
-```
-
----
-
-## `$ neofetch`
-
-```
-         🤖                    abul@buet-robotics
-        /||\                   ──────────────────
-       / || \                  Degree  : BSc Mechanical Engineering
-      /  ||  \                 Uni     : BUET, Dhaka
-     /__________\              Role    : Sr. Coordinator, Software & Autonomy
-    |  ROS2 NAV2 |                       Tech Lead, ERC Remote
-    |____________|             Stack   : C++ · Python · ROS2 · Nav2 · SLAM
-     |          |              OS      : Ubuntu 22.04 (Jammy)
-     |__________|              Shell   : bash + rclpy nodes
-```
+> *"Mechanical Engineering taught me how systems **fail**.*
+> *Robotics is teaching me how to make them **not**.*
+>
+> *A rover navigating Mars terrain autonomously,*
+> *a warehouse AGV that never blocks an aisle —*
+> *that's not magic. That's physics + planning + code,*
+> *executed precisely.*
+>
+> *That's what I'm building toward."*
+>
+> — `abul@buet-robotics`
 
 ---
 
