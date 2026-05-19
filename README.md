@@ -1,18 +1,10 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██╗   ██╗██╗         ██╗  ██╗ █████╗ ███████╗███╗   ██╗ █████╗ ████████╗
-██╔══██╗██╔══██╗██║   ██║██║         ██║  ██║██╔══██╗██╔════╝████╗  ██║██╔══██╗╚══██╔══╝
-███████║██████╔╝██║   ██║██║         ███████║███████║███████╗██╔██╗ ██║███████║   ██║   
-██╔══██║██╔══██╗██║   ██║██║         ██╔══██║██╔══██║╚════██║██║╚██╗██║██╔══██║   ██║   
-██║  ██║██████╔╝╚██████╔╝███████╗    ██║  ██║██║  ██║███████║██║ ╚████║██║  ██║   ██║   
-╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   
-```
+## 👋 Hey there! I'm **Abul Hasnat Abdullah**
 
-# Abul Hasnat Abdullah
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead;Building+machines+that+think%2C+move+%26+decide.)
+
 **BSc Mechanical Engineering · BUET**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+Team+%7C+ERC+Remote;Building+machines+that+think%2C+move+%26+decide.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abulhasnat-abdullah)
@@ -21,7 +13,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
 ---
 
 ## `$ whoami`
