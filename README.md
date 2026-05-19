@@ -48,27 +48,37 @@ ME student at BUET focused on robotics & autonomous systems. **Senior Coordinato
 
 ## Projects
 
-**`01`** &nbsp; [**interplanetar_mars_rover**](https://github.com/abulhasnat-abdullah/interplanetar_mars_rover) &nbsp; ![live](https://img.shields.io/badge/live-163800?style=flat-square) &nbsp; `· ERC Remote`
-Full autonomy stack — SLAM, Nav2 waypoint nav, ROS2 architecture, Gazebo digital twin.
+<details>
+<summary><code>01</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/interplanetar_mars_rover"><b>interplanetar_mars_rover</b></a> &nbsp; <img src="https://img.shields.io/badge/live-163800?style=flat-square"/> &nbsp; <sub>· ERC Remote</sub></summary>
+<br>
+Full autonomy stack — SLAM, Nav2 waypoint nav, ROS2 architecture, Gazebo digital twin for competition-grade Mars rover.
+
 `ROS2` `Nav2` `SLAM` `Gazebo` `C++`
+</details>
 
----
+<details>
+<summary><code>02</code> &nbsp; <b>warehouse_agv</b> &nbsp; <img src="https://img.shields.io/badge/in%20progress-5c3d00?style=flat-square"/></summary>
+<br>
+AGV for logistics — Nav2, obstacle avoidance, kinodynamically-constrained path replanning in simulated warehouse.
 
-**`02`** &nbsp; **warehouse_agv** &nbsp; ![in progress](https://img.shields.io/badge/in%20progress-5c3d00?style=flat-square)
-AGV for logistics — Nav2, obstacle avoidance, kinodynamically-constrained path replanning.
 `Nav2` `RRT*` `C++` `Gazebo`
+</details>
 
----
-
-**`03`** &nbsp; [**arm_visualizer**](https://github.com/abulhasnat-abdullah/arm_visualizer)
+<details>
+<summary><code>03</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/arm_visualizer"><b>arm_visualizer</b></a></summary>
+<br>
 Real-time 3D robot arm visualization — joint states, end-effector trajectories, workspace envelopes.
+
 `Python` `RViz2` `URDF`
+</details>
 
----
-
-**`04`** &nbsp; [**voice_controlled_robot**](https://github.com/abulhasnat-abdullah/voice_controlled_robot)
+<details>
+<summary><code>04</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/voice_controlled_robot"><b>voice_controlled_robot</b></a></summary>
+<br>
 Speech-to-command interface — natural language parsed and mapped to motor commands via ROS2.
+
 `Python` `ROS2` `NLP`
+</details>
 
 ---
 
@@ -105,18 +115,6 @@ Traversability analysis & perception pipelines for planetary surfaces — regoli
 
 `traversability` `terrain classification` `3D localization`
 </details>
-
----
-
-## Active Sprint · 30 days
-
-```
-warehouse_agv_nav2_stack         ████████░░  running
-kinodynamic_rrt_star_planner     ███████░░░  running
-3d_terrain_aware_localization    ██████░░░░  running
-manipulator_arm_pipeline         ██████░░░░  running
-erc_remote_autonomy_prep         ██░░░░░░░░  queued
-```
 
 ---
 
