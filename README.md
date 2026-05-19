@@ -8,12 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)
 
 </div>
-
----
-
 ME student at BUET focused on robotics & autonomous systems. **Senior Coordinator, Software & Autonomy** and **Technical Lead (ERC Remote)** at the BUET Interplanetary Mars Rover Team. Currently running a 30-day robotics simulation sprint.
-
----
 
 ## Stack
 
