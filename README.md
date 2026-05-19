@@ -1,34 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,40:0d1e3d,100:1a3a6e&height=140&section=header&text=ABUL%20HASNAT%20ABDULLAH&fontSize=36&fontFamily=Orbitron&fontColor=e8f0ff&fontAlignY=65&animation=fadeIn&desc=BSc%20Mechanical%20Engineering%20%C2%B7%20BUET&descSize=13&descAlignY=85&descColor=4a9eff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2045,100:1a3a6e&height=200&section=header&text=ABUL%20HASNAT%20ABDULLAH&fontSize=40&fontFamily=Orbitron&fontColor=e8f0ff&fontAlignY=45&animation=fadeIn&desc=%3E%20Aspiring%20Robotics%20%26%20Automation%20Engineer_&descSize=15&descAlignY=68&descColor=4adfff&descAlign=50" width="100%"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=4ADFFF&center=true&vCenter=true&width=550&height=32&lines=%3E+Aspiring+Robotics+%26+Automation+Engineer_;%3E+ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python_;%3E+BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead_;%3E+Building+machines+that+think%2C+move+%26+decide._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0d1117)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117)](https://github.com/abulhasnat-abdullah)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070&labelColor=0d1117)](mailto:abdkalam22@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=1e4fa0&style=for-the-badge&label=VISITORS)](https://github.com/abulhasnat-abdullah)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1929?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a1929?style=for-the-badge&logo=github&logoColor=8ba8d0)](https://github.com/abulhasnat-abdullah)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0a1929?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=1e4fa0&style=for-the-badge&label=VISITORS)](https://github.com/abulhasnat-abdullah)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=800&color=4ADFFF&center=true&vCenter=true&multiline=false&width=600&height=28&lines=ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python+%7C+Gazebo;Sr.+Coordinator+%E2%80%94+Software+%26+Autonomy+%7C+BUET+Rover;Technical+Lead+%E2%80%94+ERC+Remote+%7C+European+Rover+Challenge;Building+machines+that+think%2C+move+%26+decide.)
 
 <br/>
-
-![](https://img.shields.io/badge/%E2%97%8F%20ONLINE-0a0e17?style=flat-square&logoColor=3fb950&logo=circle&color=0d1e2e)&nbsp;
-![](https://img.shields.io/badge/──────────────────────────────-0a0e17?style=flat-square&color=0d1e2e)
 
 ```
-◈ STATUS ──────────────────────────────────────────────────────────── ◈
-  SPRINT   :  30-Day Robotics Simulation Intensive   [ACTIVE 🟢]
-  TEAM     :  BUET Interplanetary Mars Rover
-  ROLE     :  Sr. Coordinator · Software & Autonomy
-               Technical Lead · ERC Remote
-  STACK    :  C++ · Python · ROS2 · Nav2 · SLAM · Gazebo
-◈ ─────────────────────────────────────────────────────────────────── ◈
+◈ STATUS ──────────────────────────────────────────────────── ◈
+  SPRINT  :  30-Day Robotics Simulation Intensive  [ACTIVE 🟢]
+  TEAM    :  BUET Interplanetary Mars Rover
+  ROLE    :  Sr. Coordinator · Software & Autonomy
+             Technical Lead · ERC Remote
+  STACK   :  C++ · Python · ROS2 · Nav2 · SLAM · Gazebo
+◈ ─────────────────────────────────────────────────────────── ◈
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,60:0d1e3d,100:0a0e17&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
 ---
