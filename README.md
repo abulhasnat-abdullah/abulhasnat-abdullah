@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-#### Abul Hasnat Abdullah
+# Abul Hasnat Abdullah
 **BSc Mechanical Engineering · BUET**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+Team+%7C+ERC+Remote;Building+machines+that+think%2C+move+%26+decide.)
