@@ -48,19 +48,25 @@ ME student at BUET focused on robotics & autonomous systems. **Senior Coordinato
 
 ## Projects
 
-### [Mars Rover Autonomy Stack](https://github.com/abulhasnat-abdullah/interplanetar_mars_rover) `live` · ERC Remote
-Full autonomy stack for competition-grade rover — SLAM, Nav2 waypoint nav, ROS2 architecture, Gazebo digital twin.
+**`01`** &nbsp; [**interplanetar_mars_rover**](https://github.com/abulhasnat-abdullah/interplanetar_mars_rover) &nbsp; ![live](https://img.shields.io/badge/live-163800?style=flat-square) &nbsp; `· ERC Remote`
+Full autonomy stack — SLAM, Nav2 waypoint nav, ROS2 architecture, Gazebo digital twin.
 `ROS2` `Nav2` `SLAM` `Gazebo` `C++`
 
-### Warehouse AGV `in progress`
-AGV for logistics — Nav2, obstacle avoidance, kinodynamically-constrained path replanning in simulation.
+---
+
+**`02`** &nbsp; **warehouse_agv** &nbsp; ![in progress](https://img.shields.io/badge/in%20progress-5c3d00?style=flat-square)
+AGV for logistics — Nav2, obstacle avoidance, kinodynamically-constrained path replanning.
 `Nav2` `RRT*` `C++` `Gazebo`
 
-### [arm_visualizer](https://github.com/abulhasnat-abdullah/arm_visualizer)
+---
+
+**`03`** &nbsp; [**arm_visualizer**](https://github.com/abulhasnat-abdullah/arm_visualizer)
 Real-time 3D robot arm visualization — joint states, end-effector trajectories, workspace envelopes.
 `Python` `RViz2` `URDF`
 
-### [voice_controlled_robot](https://github.com/abulhasnat-abdullah/voice_controlled_robot)
+---
+
+**`04`** &nbsp; [**voice_controlled_robot**](https://github.com/abulhasnat-abdullah/voice_controlled_robot)
 Speech-to-command interface — natural language parsed and mapped to motor commands via ROS2.
 `Python` `ROS2` `NLP`
 
