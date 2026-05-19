@@ -1,16 +1,30 @@
 <div align="center">
 
-## 👋 Hey there! I'm **Abul Hasnat Abdullah**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d2045,100:1e4fa0&height=120&section=header&animation=fadeIn" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead;Building+machines+that+think%2C+move+%26+decide.)
+<br/>
 
-**BSc Mechanical Engineering · BUET**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=99999&color=E8F0FF&center=true&vCenter=true&width=680&height=60&lines=ABUL+HASNAT+ABDULLAH" alt="Abul Hasnat Abdullah" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abulhasnat-abdullah)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdkalam22@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=4A9EFF&center=true&vCenter=true&width=680&height=28&lines=BSc+Mechanical+Engineering+%C2%B7+BUET" alt="BUET ME" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=6AAFFF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead;Building+machines+that+think%2C+move+%26+decide.)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/_%5BLI%5D__LinkedIn-0a1929?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0a1929&color=0a1929)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
+[![GitHub](https://img.shields.io/badge/_%5BGH%5D__GitHub-0a1929?style=for-the-badge&logo=github&logoColor=8ba8d0&labelColor=0a1929&color=0a1929)](https://github.com/abulhasnat-abdullah)
+[![Email](https://img.shields.io/badge/_%5B%40%5D__Email-0a1929?style=for-the-badge&logo=gmail&logoColor=e07070&labelColor=0a1929&color=0a1929)](mailto:abdkalam22@gmail.com)
+
+<br/>
+
+![Status](https://img.shields.io/badge/%E2%97%8F%20ONLINE-3fb950?style=flat-square&labelColor=0a0e17&color=0a0e17&logo=circle&logoColor=3fb950)
+![Sprint](https://img.shields.io/badge/SPRINT%3A%2030--DAY%20SIM-1a2a48?style=flat-square&labelColor=0a0e17&color=0a0e17)
+![Role](https://img.shields.io/badge/ERC%20REMOTE%20TECH%20LEAD-1a2a48?style=flat-square&labelColor=0a0e17&color=0a0e17)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4fa0,50:0d2045,100:0a0e17&height=60&section=footer&reversal=true" width="100%"/>
 
 </div>
 ---
@@ -147,6 +161,22 @@ PID   NAME                              STATUS     INTENSITY
  executed precisely.
 
  That's what I'm building toward."
+```
+
+---
+
+## `$ neofetch`
+
+```
+         🤖                    abul@buet-robotics
+        /||\                   ──────────────────
+       / || \                  Degree  : BSc Mechanical Engineering
+      /  ||  \                 Uni     : BUET, Dhaka
+     /__________\              Role    : Sr. Coordinator, Software & Autonomy
+    |  ROS2 NAV2 |                       Tech Lead, ERC Remote
+    |____________|             Stack   : C++ · Python · ROS2 · Nav2 · SLAM
+     |          |              OS      : Ubuntu 22.04 (Jammy)
+     |__________|              Shell   : bash + rclpy nodes
 ```
 
 ---
