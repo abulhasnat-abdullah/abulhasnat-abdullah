@@ -4,7 +4,7 @@
 
 **BSc Mechanical Engineering · BUET** &nbsp;·&nbsp; Robotics & Automation Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/abulhasnat-abdullah)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)
 </div>
