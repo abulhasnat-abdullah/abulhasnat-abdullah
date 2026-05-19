@@ -15,9 +15,9 @@
 
 *Building machines that think, move, and decide.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abulhasnat-abdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abulhasnat-abdullah)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdkalam22@gmail.com)
 
 </div>
 
@@ -29,7 +29,7 @@
 >
 > **Senior Coordinator, Software & Autonomy Subteam** and **Technical Lead (ERC Remote)** at the **BUET Interplanetary Mars Rover Team** — shipping real autonomy software for competition-grade rovers on tight deadlines.
 >
-> Currently running a **🔥 30-day intensive robotics simulation sprint** — designing, simulating, and documenting complete robotic systems from scratch. Every day. No breaks.
+
 
 ---
 
@@ -50,15 +50,6 @@ rover_team:
     - title   : "Technical Lead"
       event   : "ERC Remote (European Rover Challenge)"
       scope   : "Full technical leadership for remote competition entry"
-
-sprint:
-  name   : "30-Day Robotics Simulation Intensive"
-  status : ACTIVE 🟢
-  focus  :
-    - Kinodynamic path planning (RRT* with dynamic constraints)
-    - ROS2 Humble + MoveIt2 + Gazebo simulation pipeline
-    - Warehouse AGV navigation stack
-    - Industrial automation case studies
 ```
 
 ---
@@ -91,15 +82,14 @@ Full autonomous navigation and task execution system for a competition-grade Mar
 ### 📦 Warehouse AGV *(In Progress)*
 Autonomous Ground Vehicle for warehouse logistics — full Nav2 navigation stack, obstacle avoidance, and dynamic path replanning in a simulated warehouse environment. Kinodynamic constraints applied throughout.
 
+### 📐 [`interplanetar_mars_rover_simulation`](https://github.com/abulhasnat-abdullah/interplanetar_mars_rover)
+Gazebo Simulation of Interplanetar Mars Rover implemented with Nav2 and SLAM.
+
 ### 🦾 [`arm_visualizer`](https://github.com/abulhasnat-abdullah/arm_visualizer)
 Real-time 3D robot arm visualization engine. Renders joint states, end-effector trajectories, and workspace envelopes. Built as a kinematic analysis and debugging tool.
 
 ### 🎙️ [`voice_controlled_robot`](https://github.com/abulhasnat-abdullah/voice_controlled_robot)
 Speech-to-command robotic control interface. Natural language instructions parsed and mapped to motor commands — an experiment in accessible human-robot interaction.
-
-### 📐 [`rover_arm_urdf`](https://github.com/abulhasnat-abdullah/rover_arm_urdf)
-URDF model of a rover-mounted manipulator arm. Fully parametrized kinematic chain, simulation-ready for ROS2 and Gazebo. The physical blueprint before the digital twin.
-
 ---
 
 ## `$ top` *(active processes)*
@@ -108,9 +98,8 @@ URDF model of a rover-mounted manipulator arm. Fully parametrized kinematic chai
 PID   NAME                              STATUS     INTENSITY
 001   warehouse_agv_nav2_stack          RUNNING    █████████░
 002   kinodynamic_rrt_star_planner      RUNNING    ████████░░
-003   ros2_moveit2_arm_pipeline         RUNNING    ███████░░░
-004   slam_toolbox_mapping              RUNNING    ███████░░░
-005   erc_remote_autonomy_prep          QUEUED     ██░░░░░░░░
+003   3d_terrain_aware_localization     RUNNING    ███████░░░
+004   manipulators                      RUNNING    ███████░░░
 ```
 
 ---
@@ -159,26 +148,10 @@ PID   NAME                              STATUS     INTENSITY
 
 ---
 
-## `$ neofetch`
-
-```
-         🤖                    abul@buet-robotics
-        /||\                   ──────────────────
-       / || \                  Degree  : BSc Mechanical Engineering
-      /  ||  \                 Uni     : BUET, Dhaka
-     /__________\              Role    : Sr. Coordinator, Software & Autonomy
-    |  ROS2 NAV2 |                       Tech Lead, ERC Remote
-    |____________|             Stack   : C++ · Python · ROS2 · Nav2 · SLAM
-     |          |              OS      : Ubuntu 22.04 (Jammy)
-     |__________|              Shell   : bash + rclpy nodes
-```
-
----
-
 ## `$ cat /roadmap.md`
 
 - [x] Robot arm URDF modeling & visualization
-- [x] ROS2 autonomy stack for Mars Rover (ERC Remote)
+- [x] ROS2 autonomy stack for Mars Rover
 - [x] Voice-controlled robot interface
 - [ ] Warehouse AGV — full Nav2 simulation
 - [ ] Kinodynamic RRT* benchmarking paper
