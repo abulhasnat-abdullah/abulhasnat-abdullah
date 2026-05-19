@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2045,100:1a3a6e&height=200&section=header&text=ABUL%20HASNAT%20ABDULLAH&fontSize=40&fontFamily=Orbitron&fontColor=e8f0ff&fontAlignY=45&animation=fadeIn&desc=%3E%20Aspiring%20Robotics%20%26%20Automation%20Engineer_&descSize=15&descAlignY=68&descColor=4adfff&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2045&height=80&section=header" width="100%"/>
+
+# `ABUL HASNAT ABDULLAH`
+
+**`BSc Mechanical Engineering · BUET`**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0d1117)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117)](https://github.com/abulhasnat-abdullah)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070&labelColor=0d1117)](mailto:abdkalam22@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=1e4fa0&style=for-the-badge&label=VISITORS)](https://github.com/abulhasnat-abdullah)
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=800&color=4ADFFF&center=true&vCenter=true&multiline=false&width=600&height=28&lines=ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python+%7C+Gazebo;Sr.+Coordinator+%E2%80%94+Software+%26+Autonomy+%7C+BUET+Rover;Technical+Lead+%E2%80%94+ERC+Remote+%7C+European+Rover+Challenge;Building+machines+that+think%2C+move+%26+decide.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/abulhasnat-abdullah)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=0d1117&style=for-the-badge&label=VISITORS)](https://github.com/abulhasnat-abdullah)
 
 <br/>
 
 ```
-◈ STATUS ──────────────────────────────────────────────────── ◈
-  SPRINT  :  30-Day Robotics Simulation Intensive  [ACTIVE 🟢]
+◈ SPRINT  :  30-Day Robotics Simulation Intensive      [ACTIVE 🟢]
   TEAM    :  BUET Interplanetary Mars Rover
   ROLE    :  Sr. Coordinator · Software & Autonomy
              Technical Lead · ERC Remote
   STACK   :  C++ · Python · ROS2 · Nav2 · SLAM · Gazebo
-◈ ─────────────────────────────────────────────────────────── ◈
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2045,100:0d1117&height=60&section=footer" width="100%"/>
 
 </div>
 ---
