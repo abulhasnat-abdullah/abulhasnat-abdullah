@@ -1,30 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d2045,100:1e4fa0&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,40:0d1e3d,100:1a3a6e&height=140&section=header&text=ABUL%20HASNAT%20ABDULLAH&fontSize=36&fontFamily=Orbitron&fontColor=e8f0ff&fontAlignY=65&animation=fadeIn&desc=BSc%20Mechanical%20Engineering%20%C2%B7%20BUET&descSize=13&descAlignY=85&descColor=4a9eff" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=99999&color=E8F0FF&center=true&vCenter=true&width=680&height=60&lines=ABUL+HASNAT+ABDULLAH" alt="Abul Hasnat Abdullah" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=4A9EFF&center=true&vCenter=true&width=680&height=28&lines=BSc+Mechanical+Engineering+%C2%B7+BUET" alt="BUET ME" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=4ADFFF&center=true&vCenter=true&width=550&height=32&lines=%3E+Aspiring+Robotics+%26+Automation+Engineer_;%3E+ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python_;%3E+BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead_;%3E+Building+machines+that+think%2C+move+%26+decide._)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=6AAFFF&center=true&vCenter=true&width=500&lines=Aspiring+Robotics+%26+Automation+Engineer;ROS2+%7C+Nav2+%7C+SLAM+%7C+C%2B%2B+%7C+Python;BUET+Mars+Rover+%7C+ERC+Remote+Tech+Lead;Building+machines+that+think%2C+move+%26+decide.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1929?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a1929?style=for-the-badge&logo=github&logoColor=8ba8d0)](https://github.com/abulhasnat-abdullah)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a1929?style=for-the-badge&logo=gmail&logoColor=e07070)](mailto:abdkalam22@gmail.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=abulhasnat-abdullah&color=1e4fa0&style=for-the-badge&label=VISITORS)](https://github.com/abulhasnat-abdullah)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/_%5BLI%5D__LinkedIn-0a1929?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0a1929&color=0a1929)](https://linkedin.com/in/abul-hasnat-abdullah-2726aa304)
-[![GitHub](https://img.shields.io/badge/_%5BGH%5D__GitHub-0a1929?style=for-the-badge&logo=github&logoColor=8ba8d0&labelColor=0a1929&color=0a1929)](https://github.com/abulhasnat-abdullah)
-[![Email](https://img.shields.io/badge/_%5B%40%5D__Email-0a1929?style=for-the-badge&logo=gmail&logoColor=e07070&labelColor=0a1929&color=0a1929)](mailto:abdkalam22@gmail.com)
+![](https://img.shields.io/badge/%E2%97%8F%20ONLINE-0a0e17?style=flat-square&logoColor=3fb950&logo=circle&color=0d1e2e)&nbsp;
+![](https://img.shields.io/badge/──────────────────────────────-0a0e17?style=flat-square&color=0d1e2e)
 
-<br/>
+```
+◈ STATUS ──────────────────────────────────────────────────────────── ◈
+  SPRINT   :  30-Day Robotics Simulation Intensive   [ACTIVE 🟢]
+  TEAM     :  BUET Interplanetary Mars Rover
+  ROLE     :  Sr. Coordinator · Software & Autonomy
+               Technical Lead · ERC Remote
+  STACK    :  C++ · Python · ROS2 · Nav2 · SLAM · Gazebo
+◈ ─────────────────────────────────────────────────────────────────── ◈
+```
 
-![Status](https://img.shields.io/badge/%E2%97%8F%20ONLINE-3fb950?style=flat-square&labelColor=0a0e17&color=0a0e17&logo=circle&logoColor=3fb950)
-![Sprint](https://img.shields.io/badge/SPRINT%3A%2030--DAY%20SIM-1a2a48?style=flat-square&labelColor=0a0e17&color=0a0e17)
-![Role](https://img.shields.io/badge/ERC%20REMOTE%20TECH%20LEAD-1a2a48?style=flat-square&labelColor=0a0e17&color=0a0e17)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4fa0,50:0d2045,100:0a0e17&height=60&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,60:0d1e3d,100:0a0e17&height=80&section=footer" width="100%"/>
 
 </div>
 ---
