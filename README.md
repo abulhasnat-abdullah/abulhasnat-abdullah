@@ -11,7 +11,7 @@
 
 ---
 
-ME student at BUET focused on robotics & autonomous systems. **Senior Coordinator, Software & Autonomy** and **Technical Lead (ERC Remote)** at the BUET Interplanetary Mars Rover Team. Currently running a 30-day robotics simulation sprint. 
+ME student at BUET focused on robotics & autonomous systems. **Senior Coordinator, Software & Autonomy** and **Technical Lead (ERC Remote)** at the BUET Interplanetary Mars Rover Team.
 
 ---
 
