@@ -82,7 +82,6 @@ Speech-to-command interface — natural language parsed and mapped to motor comm
 <details>
 <summary><code>05</code> &nbsp; <a href="https://github.com/abulhasnat-abdullah/px4-gps-denied-drone-sim"><b>Autonomoous_Drone</b></a></summary>
 <br>
-Speech-to-command interface — natural language parsed and mapped to motor commands via ROS2.
 
 `Python` `ROS2` `NLP`
 </details>
